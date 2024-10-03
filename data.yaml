@@ -1,0 +1,10 @@
+names:
+  0: car
+  1: truck
+  2: person
+  3: bicycle
+  4: traffic_light
+nc: 5
+path: ./yolo_dataset
+train: ./yolo_dataset/train
+val: ./yolo_dataset/val
