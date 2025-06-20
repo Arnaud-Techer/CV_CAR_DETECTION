@@ -14,3 +14,6 @@ The base model used here is the YOLO model from Ultralytics, which is a deep lea
 Two python has been developed. The first one is use to run an inference of the YOLO model in order to identify the key elements on the road.
 The second python file use the database in order to fine-tune the model using a training base in the data and a test base. The goal is to learn 
 how to train a base model on a specific dataset. 
+
+
+![Demo](yolo_inference.gif)
